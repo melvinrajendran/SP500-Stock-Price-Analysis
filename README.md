@@ -10,4 +10,4 @@ This is a tutorial that analyzes stock prices on the S&amp;P 500 and predicts st
 * Data Analysis, Hypothesis Testing, and Machine Learning
 * Insights
 
-Please refer to the following link to view the Jupyter notebook: https://melvinrajendran.github.io/SP500-Stock-Price-Analysis/.
+Please refer to the following link to view the Jupyter notebook: https://melvinrajendran.github.io/SP500-Stock-Price-Analysis/. Within this notebook are our code, outputs, and prose descriptions outlining our process and rationale.
